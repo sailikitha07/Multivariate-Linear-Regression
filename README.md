@@ -18,7 +18,7 @@ Get the value of X and y variables.
 Create the linear regression model and fit.
 
 ### Step5
-Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm cube and print the predicted the output.
+Predict the CO2 emission of a car where the weight is 3300kg, and the volume is 1300cm cube and print the predicted the output.
 
 ## Program:
 
